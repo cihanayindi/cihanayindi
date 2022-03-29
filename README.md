@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: cihanayindi00@gmail.com
+- 📫 How to reach me: cihanayindi00@gmail.com or [My LinkedIn account](https://www.linkedin.com/in/cihanayindi/)
 
 <!---
 cihanayindi/cihanayindi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
