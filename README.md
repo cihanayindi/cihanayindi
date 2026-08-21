@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Cihan and I'm a Computer Engineering Student from Turkiye</h2>
+<h2 align="center">Hi 👋! My name is Cihan and I'm a Computer Engineer from Turkiye</h2>
 
 ###
 
